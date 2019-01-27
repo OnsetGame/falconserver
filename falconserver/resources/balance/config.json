@@ -1,0 +1,2071 @@
+{
+    "version": 3,
+
+    "logs": {
+        "requests": 0,
+        "schedule": 0,
+        "scheduleDelayWarningT": 15,
+        "notifications": 0,
+        "tournaments": 0,
+        "nearMisses": 0,
+        "deltaDNA": 1,
+    },
+
+    "notifications" : {
+        "sleepHour" : 23,
+        "wakeHour" : 8,
+        "minSendingInterval" : 21600,
+        "limitPerDay" : 3,
+        "resetLimitsOnLogin" : 1,
+        "logoutInactivityTime" : 600,
+        "priorities" : [
+            9,
+            1,
+            2,
+            8,
+            6,
+            3,
+            7,
+            4,
+            5,
+            10,
+            11,
+            12
+        ]
+    },
+
+    "tournaments" : {
+        "generationInterval" : 900,
+        "startDelay" : 3600,
+        "tutorialDuration": 600,
+        "tutorialBet": 5000,
+        "tutorialEntryFee": 0,
+
+        "levels": {
+            "0": {
+                "chipsRewardPerHour": 80000,
+                "chipsRewardPer10KBet": 10000,
+                "bucksRewardPerHour": 0,
+                "bucksRewardPer10KBet": 0,
+                "probability": 0.0,
+                "botsJoin" : {
+                    "fastDuration" : 60,
+                    "fastDelayMin" : 5,
+                    "fastDelayMax" : 15,
+                    "regularDelayMin" : 15,
+                    "regularDelayMax" : 45
+                },
+            },
+            "1": {
+                "chipsRewardPerHour": 80000,
+                "chipsRewardPer10KBet": 10000,
+                "bucksRewardPerHour": 0,
+                "bucksRewardPer10KBet": 0,
+                "probability": 0.75,
+                "botsJoin" : {
+                    "fastDuration" : 60,
+                    "fastDelayMin" : 5,
+                    "fastDelayMax" : 15,
+                    "regularDelayMin" : 15,
+                    "regularDelayMax" : 45
+                },
+            },
+            "2": {
+                "chipsRewardPerHour": 0,
+                "chipsRewardPer10KBet": 0,
+                "bucksRewardPerHour": 40,
+                "bucksRewardPer10KBet": 2,
+                "probability": 0.25,
+                "botsJoin" : {
+                    "fastDuration" : 120,
+                    "fastDelayMin" : 10,
+                    "fastDelayMax" : 30,
+                    "regularDelayMin" : 30,
+                    "regularDelayMax" : 90
+                },
+            },
+        },
+
+        "botStopSpinProb" : 0.01,
+        "slots" : {
+            "dreamTowerSlot" : {
+                "tutorialName" : "Mime Challenger",
+                "cases" : [
+                    {
+                        "name" : "Eiffel Tower’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800,
+                    },
+                    {
+                        "name" : "Artist’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Mademoiselle’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Sommelier's Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Scatter’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Tourist’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Dove’s Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Wild’s Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Lift Attendant's Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Garçon’s Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Chef’s Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Mime’s Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 5.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        8,
+                        10,
+                        20,
+                        30,
+                        40
+                    ],
+                    "probs" : [
+                        0.73,
+                        0.09,
+                        0.06,
+                        0.04,
+                        0.05,
+                        0.0092,
+                        0.0136,
+                        0.0,
+                        0.013,
+                        0.0013
+                    ]
+                }
+            },
+            "balloonSlot" : {
+                "tutorialName" : "Helium Challenger",
+                "cases" : [
+                    {
+                        "name" : "Calm Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Breezy Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Draft Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Gust Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Monsoon Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Tropical Storm Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Windy Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Flurry Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Gale Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Storm Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Cyclone Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Hurricane Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 9.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        8,
+                        10,
+                        20,
+                        30,
+                        40
+                    ],
+                    "probs" : [
+                        0.72,
+                        0.07,
+                        0.06,
+                        0.04,
+                        0.06,
+                        0.01,
+                        0.0255,
+                        0.007,
+                        0.0033,
+                        0.0042
+                    ]
+                }
+            },
+            "candySlot" : {
+                "tutorialName" : "Squib Challenger",
+                "cases" : [
+                    {
+                        "name" : "Bubble Gum Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Candy Cane Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Fudge Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Jawbreaker Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Pez Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Taffy Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Cotton Candy Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Cupcake Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Gummi Bear Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Lollipop Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Licorice Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Marshmallow Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 5.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        8,
+                        10,
+                        20
+                    ],
+                    "probs" : [
+                        0.76,
+                        0.1,
+                        0.065,
+                        0.011,
+                        0.024,
+                        0.008,
+                        0.025,
+                        0.007
+                    ]
+                }
+            },
+            "witchSlot" : {
+                "tutorialName" : "Spinner Challenger",
+                "cases" : [
+                    {
+                        "name" : "Flying Broom Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Magic Spell Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Talking Wart Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Pointy Hat Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Slimy Toad Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Witching Hour Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Magic Wand Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Hocus-Pocus Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Love Potion Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Black Cat Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Bubbling Cauldron Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Book of Shadows Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 5.0,
+                    "scores" : [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        12,
+                        15
+                    ],
+                    "probs" : [
+                        0.6,
+                        0.28,
+                        0.018,
+                        0.057,
+                        0.013,
+                        0.0106,
+                        0.004,
+                        0.0036,
+                        0.0025,
+                        0.004,
+                        0.003,
+                        0.0043
+                    ]
+                }
+            },
+            "mermaidSlot" : {
+                "tutorialName" : "Crucian Challenger",
+                "cases" : [
+                    {
+                        "name" : "Starfish Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Dolphin Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Sea Turtle Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Sea Horse Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Neptune Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Pearl Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Necklace Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Fin Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Goldfish Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Ship Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Prince Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Treasure Chest Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 5.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        10,
+                        12,
+                        15
+                    ],
+                    "probs" : [
+                        0.84,
+                        0.048,
+                        0.017,
+                        0.012,
+                        0.011,
+                        0.006,
+                        0.01,
+                        0.0056,
+                        0.011,
+                        0.0097,
+                        0.0088,
+                        0.012
+                    ]
+                }
+            },
+            "ufoSlot" : {
+                "tutorialName" : "",
+                "cases" : [
+                    {
+                        "name" : "Milk Me VIP",
+                        "level" : 2,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Hay There VIP",
+                        "level" : 2,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Beam Me Up VIP",
+                        "level" : 2,
+                        "entryFee" : 0,
+                        "bet" : 25000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Moooving Up VIP",
+                        "level" : 2,
+                        "entryFee" : 0,
+                        "bet" : 25000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Out of This World VIP",
+                        "level" : 2,
+                        "entryFee" : 0,
+                        "bet" : 50000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "We Come in Peace VIP",
+                        "level" : 2,
+                        "entryFee" : 0,
+                        "bet" : 50000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Little Green Men VIP",
+                        "level" : 2,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Here Piggy Piggy VIP",
+                        "level" : 2,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "To Your Leader VIP",
+                        "level" : 2,
+                        "entryFee" : 50000,
+                        "bet" : 25000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Spaced Out VIP",
+                        "level" : 2,
+                        "entryFee" : 50000,
+                        "bet" : 25000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Flying Saucers VIP",
+                        "level" : 2,
+                        "entryFee" : 100000,
+                        "bet" : 50000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Truth Is Out There VIP",
+                        "level" : 2,
+                        "entryFee" : 100000,
+                        "bet" : 50000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 9.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        8,
+                        10,
+                        20,
+                        30,
+                        40
+                    ],
+                    "probs" : [
+                        0.72,
+                        0.07,
+                        0.06,
+                        0.04,
+                        0.06,
+                        0.01,
+                        0.0255,
+                        0.007,
+                        0.0033,
+                        0.0042
+                    ]
+                }
+            },
+            "groovySlot" : {
+                "tutorialName" : "Mime Challenger",
+                "cases" : [
+                    {
+                        "name" : "Eiffel Tower’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Artist’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Mademoiselle’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Sommelier's Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Scatter’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Tourist’s Event",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Dove’s Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Wild’s Event",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Lift Attendant's Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Garçon’s Event",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Chef’s Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Mime’s Event",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 5.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        8,
+                        10,
+                        20,
+                        30,
+                        40
+                    ],
+                    "probs" : [
+                        0.73,
+                        0.09,
+                        0.06,
+                        0.04,
+                        0.05,
+                        0.0092,
+                        0.0136,
+                        0.0,
+                        0.013,
+                        0.0013
+                    ]
+                }
+            },
+            "candySlot2" : {
+                "tutorialName" : "Mime candySlot2",
+                "cases" : [
+                    {
+                        "name" : "Eiffel candySlot2",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Artist’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Mademoiselle’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Sommelier's candySlot2",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Scatter’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Tourist’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 0,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Dove’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Wild’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 10000,
+                        "bet" : 5000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Lift Attendant's candySlot2",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Garçon’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 25000,
+                        "bet" : 10000,
+                        "duration" : 3600
+                    },
+                    {
+                        "name" : "Chef’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 1800
+                    },
+                    {
+                        "name" : "Mime’s candySlot2",
+                        "level" : 1,
+                        "entryFee" : 50000,
+                        "bet" : 20000,
+                        "duration" : 3600
+                    }
+                ],
+                "bots" : {
+                    "spinInterval" : 5.0,
+                    "scores" : [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        8,
+                        10,
+                        20,
+                        30,
+                        40
+                    ],
+                    "probs" : [
+                        0.73,
+                        0.09,
+                        0.06,
+                        0.04,
+                        0.05,
+                        0.0092,
+                        0.0136,
+                        0.0,
+                        0.013,
+                        0.0013
+                    ]
+                }
+            }
+        }
+    },
+    "minClientVersion": 0,
+    "maintenanceTime": 0.0,
+    "bundles": [
+        {
+            "id": "b1",
+            "gain": {
+                "Bucks": 600,
+            },
+            "usdPrice": "4.99",
+            "name": "Start Pack",
+            "description": "600 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b2",
+            "gain": {
+                "Bucks": 3000,
+            },
+            "usdPrice": "14.99",
+            "name": "Light Pack",
+            "description": "3000 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b3",
+            "gain": {
+                "Bucks": 6000,
+            },
+            "usdPrice": "24.99",
+            "name": "Big Pack",
+            "description": "6000 bucks",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b4",
+            "gain": {
+                "Bucks": 15000,
+            },
+            "usdPrice": "49.99",
+            "name": "Pro Pack",
+            "description": "15000 bucks",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b5",
+            "gain": {
+                "Bucks": 40000,
+            },
+            "usdPrice": "99.99",
+            "name": "Mega Pack",
+            "description": "40000 bucks",
+            "imageUrl": "BIG_PACK",
+            "description": "40000 bucks",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b6",
+            "gain": {
+                "Bucks": 750,
+                "Chips": 2000000,
+            },
+            "usdPrice": "9.99",
+            "name": "Special Pack",
+            "description": "750 bucks & 2'000'000 chips",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 0},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b7",
+            "gain": {
+                "Chips": 1000000,
+            },
+            "usdPrice": "1.99",
+            "name": "Chips Pack",
+            "description": "1'000'000 chips",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b8",
+            "gain": {
+                "Bucks": 1000,
+            },
+            "usdPrice": "3.99",
+            "name": "Only Today!",
+            "description": "Bucks Bag",
+            "promoText":"60%|OFF",
+            "sideText":"60% OFF",
+            "imageType":"Medium",
+            "imageUrl": "SMALL_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b9",
+            "gain": {
+                "Energy": 20000,
+            },
+            "usdPrice": "9.99",
+            "name": "Energy Pack",
+            "description": "20000 energy",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 172800},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b10",
+            "gain": {
+                "Bucks": 600,
+            },
+            "usdPrice": "4.99",
+            "name": "Start Pack",
+            "description": "600 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b11",
+            "gain": {
+                "Chips": 500000,
+            },
+            "usdPrice": "2.99",
+            "name": "Start Pack",
+            "description": "500'000 chips",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b12",
+            "gain": {
+                "Chips": 2000000,
+            },
+            "usdPrice": "9.99",
+            "name": "Light Pack",
+            "description": "2'000'000 chips",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b13",
+            "gain": {
+                "Chips": 5000000,
+            },
+            "usdPrice": "19.99",
+            "name": "Big Pack",
+            "description": "5'000'000 chips",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+
+
+        {
+            "id": "b14",
+            "gain": {
+                "Chips": 10000000,
+            },
+            "usdPrice": "29.99",
+            "name": "Pro Pack",
+            "description": "10'000'000 chips",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b15",
+            "gain": {
+                "Chips": 30000000,
+            },
+            "usdPrice": "74.99",
+            "name": "Mega Pack",
+            "description": "30'000'000 chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b16",
+            "gain": {
+                "Chips": 1000000,
+            },
+            "usdPrice": "2.99",
+            "oldUsdPrice": "4.99",
+            "name": "Special Hour!",
+            "description": "One Million Chips",
+            "promoText":"Save|2$",
+            "sideText":"Save 2$",
+            "imageType":"Medium",
+            "imageUrl": "SMALL_PACK",
+            "offerInfo": {"activeTime": 3600},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b17",
+            "gain": {
+                "Chips": 1000000,
+            },
+            "usdPrice": "2.99",
+            "oldUsdPrice": "5.99",
+            "name": "Special Case!",
+            "description": "One Million Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "SMALL_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b18",
+            "gain": {
+                "Chips": 2000000,
+            },
+            "usdPrice": "2.99",
+            "oldUsdPrice": "9.99",
+            "name": "Gorgeous Pack",
+            "description": "Lots Of Chips",
+            "promoText":"70%|OFF",
+            "sideText":"70% OFF",
+            "imageType":"Big",
+            "imageUrl": "MEDIUM_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b102",
+            "gain": {
+                "Chips": 1500000,
+            },
+            "usdPrice": "3.99",
+            "oldUsdPrice": "7.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b103",
+            "gain": {
+                "Chips": 2000000,
+            },
+            "usdPrice": "4.99",
+            "oldUsdPrice": "9.99",
+            "name": "Special Case!",
+            "description": "Two Better Than One",
+            "promoText":"Save|5$",
+            "sideText":"Save 5$",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b104",
+            "gain": {
+                "Chips": 2500000,
+            },
+            "usdPrice": "5.99",
+            "oldUsdPrice": "11.99",
+            "name": "Great Deal!",
+            "description": "Big Enough!",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b105",
+            "gain": {
+                "Chips": 3000000,
+            },
+            "usdPrice": "7.99",
+            "oldUsdPrice": "15.99",
+            "name": "Great Deal!",
+            "description": "Lots of Chips!",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b106",
+            "gain": {
+                "Chips": 4000000,
+            },
+            "usdPrice": "9.99",
+            "oldUsdPrice": "19.99",
+            "name": "Only Today!",
+            "description": "Great Chips Case",
+            "promoText":"Save|10$",
+            "sideText":"Save 10$",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b107",
+            "gain": {
+                "Chips": 7000000,
+            },
+            "usdPrice": "14.99",
+            "oldUsdPrice": "29.99",
+            "name": "Special Deal!",
+            "description": "It's a Safe!",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b108",
+            "gain": {
+                "Chips": 10000000,
+            },
+            "usdPrice": "19.99",
+            "oldUsdPrice": "39.99",
+            "name": "Special Offer!",
+            "description": "It's a Safe!",
+            "promoText":"Save|20$",
+            "sideText":"Save 20$",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b109",
+            "gain": {
+                "Chips": 15000000,
+            },
+            "usdPrice": "24.99",
+            "oldUsdPrice": "49.99",
+            "name": "Special Offer!",
+            "description": "Full Of Chips!",
+            "promoText":"50%|OFF",
+            "sideText":"Save 25$",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b110",
+            "gain": {
+                "Chips": 20000000,
+            },
+            "usdPrice": "29.99",
+            "oldUsdPrice": "59.99",
+            "name": "Only Today!",
+            "description": "Full Of Chips!",
+            "promoText":"Save|25$",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b111",
+            "gain": {
+                "Chips": 30000000,
+            },
+            "usdPrice": "39.99",
+            "oldUsdPrice": "79.99",
+            "name": "Great Deal!",
+            "description": "Enough For A Well Play!",
+            "promoText":"Save|40$",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b112",
+            "gain": {
+                "Chips": 40000000,
+            },
+            "usdPrice": "49.99",
+            "oldUsdPrice": "99.99",
+            "name": "Once!",
+            "description": "Enough For A Well Play!",
+            "promoText":"Save|50$",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b113",
+            "gain": {
+                "Chips": 600000,
+            },
+            "usdPrice": "1.99",
+            "oldUsdPrice": "3.99",
+            "name": "Special For You!",
+            "description": "For A Good Start",
+            "promoText":"Save|2$",
+            "sideText":"50% OFF",
+            "imageType":"Small",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "b114",
+            "gain": {
+                "Chips": 1000000,
+            },
+            "usdPrice": "2.99",
+            "oldUsdPrice": "5.99",
+            "name": "Special For You!",
+            "description": "For A Good Start",
+            "promoText":"50%|OFF",
+            "sideText":"Save 3$",
+            "imageType":"Small",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bb01",
+            "gain": {
+                "BoosterExperience": 604800,
+            },
+            "usdPrice": "2.99",
+            "name": "Experience booster",
+            "description": "Experience booster",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bb02",
+            "gain": {
+                "BoosterIncome": 604800,
+            },
+            "usdPrice": "7.99",
+            "name": "Income booster",
+            "description": "Income booster",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bb03",
+            "gain": {
+                "BoosterTournamentPoints": 604800,
+            },
+            "usdPrice": "4.99",
+            "name": "Tournament points booster",
+            "description": "Tournament points booster",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bb04",
+            "gain": {
+                "BoosterExperience": 604800,
+                "BoosterIncome": 604800,
+                "BoosterTournamentPoints": 604800,
+            },
+            "usdPrice": "9.99",
+            "name": "Premium booster",
+            "description": "Premium booster",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "be01",
+            "gain": {
+                "Energy": 10000,
+            },
+            "usdPrice": "9.99",
+            "name": "Energy Pack",
+            "description": "Energy Pack",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt102",
+            "gain": {
+                "Chips": 3000000,
+            },
+            "usdPrice": "3.99",
+            "oldUsdPrice": "7.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt103",
+            "gain": {
+                "Chips": 4000000,
+            },
+            "usdPrice": "4.99",
+            "oldUsdPrice": "9.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt104",
+            "gain": {
+                "Chips": 5000000,
+            },
+            "usdPrice": "5.99",
+            "oldUsdPrice": "11.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt105",
+            "gain": {
+                "Chips": 6000000,
+            },
+            "usdPrice": "7.99",
+            "oldUsdPrice": "15.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Medium",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt106",
+            "gain": {
+                "Chips": 8000000,
+            },
+            "usdPrice": "9.99",
+            "oldUsdPrice": "19.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt107",
+            "gain": {
+                "Chips": 14000000,
+            },
+            "usdPrice": "14.99",
+            "oldUsdPrice": "29.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt108",
+            "gain": {
+                "Chips": 20000000,
+            },
+            "usdPrice": "19.99",
+            "oldUsdPrice": "39.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt109",
+            "gain": {
+                "Chips": 30000000,
+            },
+            "usdPrice": "24.99",
+            "oldUsdPrice": "49.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt110",
+            "gain": {
+                "Chips": 40000000,
+            },
+            "usdPrice": "29.99",
+            "oldUsdPrice": "59.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt111",
+            "gain": {
+                "Chips": 60000000,
+            },
+            "usdPrice": "39.99",
+            "oldUsdPrice": "79.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt112",
+            "gain": {
+                "Chips": 80000000,
+            },
+            "usdPrice": "49.99",
+            "oldUsdPrice": "99.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Big",
+            "imageUrl": "BIG_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt113",
+            "gain": {
+                "Chips": 1200000,
+            },
+            "usdPrice": "1.99",
+            "oldUsdPrice": "3.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Small",
+            "imageUrl": "SMALL_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt114",
+            "gain": {
+                "Chips": 2000000,
+            },
+            "usdPrice": "2.99",
+            "oldUsdPrice": "4.99",
+            "name": "Special Case!",
+            "description": "Lots Of Chips",
+            "promoText":"50%|OFF",
+            "sideText":"50% OFF",
+            "imageType":"Small",
+            "imageUrl": "SMALL_PACK",
+            "offerInfo": {"activeTime": 86400},
+            "customImageUrl": ""
+        },
+
+        {
+            "id": "bt1",
+            "gain": {
+                "Chips": 1000000,
+            },
+            "usdPrice": "4.99",
+            "name": "Start Pack",
+            "description": "1'000'000 chips",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt2",
+            "gain": {
+                "Chips": 1500000,
+            },
+            "usdPrice": "7.99",
+            "name": "Light Pack",
+            "description": "1'500'000 chips",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt3",
+            "gain": {
+                "Chips": 3500000,
+            },
+            "usdPrice": "14.99",
+            "name": "Big Pack",
+            "description": "3'500'000 chips",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt4",
+            "gain": {
+                "Chips": 7500000,
+            },
+            "usdPrice": "24.99",
+            "name": "Pro Pack",
+            "description": "7'500'000 chips",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt5",
+            "gain": {
+                "Chips": 20000000,
+            },
+            "usdPrice": "49.99",
+            "name": "Mega Pack",
+            "description": "20'000'000 chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt6",
+            "gain": {
+                "Chips": 45000000,
+            },
+            "usdPrice": "99.99",
+            "name": "Special Pack",
+            "description": "45'000'000 chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt11",
+            "gain": {
+                "Bucks": 400,
+            },
+            "usdPrice": "2.99",
+            "name": "Start Pack",
+            "description": "400 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt12",
+            "gain": {
+                "Bucks": 1500,
+            },
+            "usdPrice": "7.99",
+            "name": "Light Pack",
+            "description": "1'500 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt13",
+            "gain": {
+                "Bucks": 2000,
+            },
+            "usdPrice": "9.99",
+            "name": "Big Pack",
+            "description": "2'000 bucks",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt14",
+            "gain": {
+                "Bucks": 4500,
+            },
+            "usdPrice": "19.99",
+            "name": "Pro Pack",
+            "description": "4'500 bucks",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt15",
+            "gain": {
+                "Bucks": 7500,
+            },
+            "usdPrice": "29.99",
+            "name": "Mega Pack",
+            "description": "7'500 bucks",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bt16",
+            "gain": {
+                "Bucks": 30000,
+            },
+            "usdPrice": "74.99",
+            "name": "Special Pack",
+            "description": "30'000 bucks",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt1",
+            "gain": {
+                "Chips": 1000000,
+            },
+            "usdPrice": "2.99",
+            "name": "Start Pack",
+            "description": "1'000'000 chips",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt2",
+            "gain": {
+                "Chips": 4000000,
+            },
+            "usdPrice": "9.99",
+            "name": "Light Pack",
+            "description": "1'500'000 chips",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt3",
+            "gain": {
+                "Chips": 3500000,
+            },
+            "usdPrice": "19.99",
+            "name": "Big Pack",
+            "description": "10'000'000 chips",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt4",
+            "gain": {
+                "Chips": 2000000,
+            },
+            "usdPrice": "29.99",
+            "name": "Pro Pack",
+            "description": "20'000'000 chips",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt5",
+            "gain": {
+                "Chips": 60000000,
+            },
+            "usdPrice": "74.99",
+            "name": "Mega Pack",
+            "description": "60'000'000 chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt11",
+            "gain": {
+                "Bucks": 1200,
+            },
+            "usdPrice": "4.99",
+            "name": "Start Pack",
+            "description": "1'200 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt12",
+            "gain": {
+                "Bucks": 6000,
+            },
+            "usdPrice": "14.99",
+            "name": "Light Pack",
+            "description": "6'000 bucks",
+            "imageUrl": "SMALL_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt13",
+            "gain": {
+                "Bucks": 12000,
+            },
+            "usdPrice": "24.99",
+            "name": "Big Pack",
+            "description": "12'000 bucks",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt14",
+            "gain": {
+                "Bucks": 30000,
+            },
+            "usdPrice": "49.99",
+            "name": "Pro Pack",
+            "description": "30'000 bucks",
+            "imageUrl": "MEDIUM_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt15",
+            "gain": {
+                "Bucks": 80000,
+            },
+            "usdPrice": "99.99",
+            "name": "Mega Pack",
+            "description": "80'000 bucks",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "btt21",
+            "gain": {
+                "Bucks": 1500,
+                "Chips": 4000000,
+            },
+            "usdPrice": "9.99",
+            "name": "Special Offer",
+            "description": "1'500 bucks + 4'000'000 Chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bdp01",
+            "gain": {
+                "Chips": 3000000,
+            },
+            "usdPrice": "9.99",
+            "name": "Special Offer",
+            "description": "3'000'000 Chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bdp02",
+            "gain": {
+                "Bucks": 3000,
+            },
+            "usdPrice": "9.99",
+            "name": "Special Offer",
+            "description": "3'000 Bucks",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bdp03",
+            "gain": {
+                "Energy": 15000,
+            },
+            "usdPrice": "9.99",
+            "name": "Big Energy Offer",
+            "description": "15000 Energy",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+        {
+            "id": "bdp04",
+            "gain": {
+                "Chips": 5000000,
+            },
+            "usdPrice": "14.99",
+            "name": "Special Chips Pack",
+            "description": "5'000'000 Chips",
+            "imageUrl": "BIG_PACK",
+            "customImageUrl": ""
+        },
+    ]
+}

@@ -1,0 +1,1843 @@
+{
+    "slot": "mermaidSlot",
+    "field_height": 3,
+    "item_set": [
+        {
+            "color": "#000000",
+            "id": "wild",
+            "type": 1
+        },
+        {
+            "color": "#000000",
+            "id": "king",
+            "type": 2
+        },
+        {
+            "color": "#000000",
+            "id": "prince",
+            "type": 3
+        },
+        {
+            "color": "#000000",
+            "id": "star",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "fish",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "turtle",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "dolphin",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "seahorse",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "chest1",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "chest2",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "ship",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "necklace",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "pearl",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "wildx2",
+            "type": 1
+        }
+    ],
+    "lines": [
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            0,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            1,
+            2,
+            1,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            2,
+            2
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            0,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        [
+            2,
+            0,
+            1,
+            0,
+            2
+        ],
+        [
+            0,
+            2,
+            1,
+            2,
+            0
+        ],
+        [
+            0,
+            2,
+            2,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            0,
+            0,
+            2
+        ],
+        [
+            1,
+            0,
+            2,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            0,
+            2,
+            1
+        ]
+    ],
+    "pay_table": [
+        [
+            0,
+            0,
+            0,
+            75,
+            75,
+            50,
+            50,
+            50,
+            30,
+            30,
+            25,
+            25,
+            25,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            25,
+            25,
+            20,
+            20,
+            20,
+            15,
+            15,
+            10,
+            10,
+            10,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            10,
+            10,
+            5,
+            5,
+            5,
+            3,
+            3,
+            2,
+            2,
+            2,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "reel_count": 5,
+    "reel_size": 14,
+    "reels": [
+        [
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "prince",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "prince",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "prince",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_freespin": [
+        [
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "king",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "star",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "seahorse",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "necklace",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "turtle",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "pearl",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "ship",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "dolphin",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "fish",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "chest1",
+                "type": 0
+            }
+        ]
+    ],
+    "freespin_config": {
+        "freespin_trigger": {
+            "color": "#000000",
+            "id": "king",
+            "type": 2
+        },
+        "freespin_count": [
+            {
+                "trigger_count": 3,
+                "freespin_count": 5
+            },
+            {
+                "trigger_count": 4,
+                "freespin_count": 7
+            },
+            {
+                "trigger_count": 5,
+                "freespin_count": 10
+            }
+        ]
+    },
+    "bonus_config": {
+        "bonus_trigger": {
+            "color": "#000000",
+            "id": "prince",
+            "type": 3
+        },
+        "bonus_count": {
+            "trigger_count": 2
+        },
+        "bonus_payouts": [
+            12,
+            8,
+            5,
+            5,
+            3,
+            3,
+            2,
+            2,
+            1
+        ],
+        "bonus_winning_count": 3
+    },
+    "wild_config": {
+        "wild_trigger": {
+            "color": "#000000",
+            "id": "wild",
+            "type": 1
+        },
+        "spin": {
+            "horisontal": {
+                "posLeft": 3,
+                "posCenterLeft": 4,
+                "posCenterRight": 4,
+                "posRight": 4,
+                "posStand": 42,
+                "posMiss": 43
+            },
+            "vertical": {
+                "posCenter": 10,
+                "posUp": 45,
+                "posDown": 45
+            }
+        },
+        "freespin": {
+            "horisontal": {
+                "posLeft": 3,
+                "posCenterLeft": 4,
+                "posCenterRight": 4,
+                "posRight": 4,
+                "posStand": 0,
+                "posMiss": 85
+            },
+            "vertical": {
+                "posCenter": 10,
+                "posUp": 45,
+                "posDown": 45
+            },
+            "double_mermaid": {
+                "posLeft_posCenterRight": 20,
+                "posLeft_posRight": 20,
+                "posCenterLeft_posRight": 20,
+                "posLeft_posCenterLeft": 20,
+                "posCenterLeft_posCenterRight": 20,
+                "posCenterRight_posRight": 0
+            }
+        }
+    }
+}

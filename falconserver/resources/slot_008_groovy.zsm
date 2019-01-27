@@ -1,0 +1,5452 @@
+{
+    "slot": "groovySlot",
+    "field_height": 3,
+    "item_set": [
+        {
+            "color": "#000000",
+            "id": "wild",
+            "type": 1
+        },
+        {
+            "color": "#000000",
+            "id": "lemon",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "cherry",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "melon",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "grape",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "7red",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "7green",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "7blue",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "3bar",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "2bar",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "1bar",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "7wild",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "7any",
+            "type": 0
+        }
+    ],
+    "lines": [
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            0,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            1,
+            2,
+            1,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            2,
+            2
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            0,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        [
+            2,
+            0,
+            1,
+            0,
+            2
+        ],
+        [
+            0,
+            2,
+            1,
+            2,
+            0
+        ],
+        [
+            0,
+            2,
+            2,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            0,
+            0,
+            2
+        ],
+        [
+            1,
+            0,
+            2,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            0,
+            2,
+            1
+        ]
+    ],
+    "pay_table": [
+        [
+            0,
+            500,
+            300,
+            250,
+            200,
+            125,
+            125,
+            125,
+            150,
+            100,
+            50,
+            0,
+            125
+        ],
+        [
+            0,
+            75,
+            50,
+            40,
+            35,
+            30,
+            30,
+            30,
+            30,
+            20,
+            10,
+            0,
+            30
+        ],
+        [
+            0,
+            30,
+            20,
+            15,
+            10,
+            5,
+            5,
+            5,
+            15,
+            10,
+            5,
+            5,
+            5
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            2
+        ]
+    ],
+    "reel_count": 5,
+    "reel_size": 60,
+    "reels": [
+        [
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_respin": [
+        [
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_freespin": [
+        [
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_freespin_bars": [
+        [
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "1bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "melon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cherry",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "lemon",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "grape",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "2bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "3bar",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "7green",
+                "type": 0
+            }
+        ]
+    ],
+    "bars_config": {
+        "barsFreespinTrigger": 2,
+        "totalBarsFreespinCount": 10,
+        "barsIds": [
+            "1bar",
+            "2bar",
+            "3bar"
+        ],
+        "barsPayout": [
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            5,
+            10,
+            15,
+            20,
+            30,
+            50,
+            100,
+            200,
+            500,
+            1000
+        ]
+    },
+    "sevens_config": {
+        "sevensInReelTrigger": 3,
+        "sevensFreespinTrigger": 3,
+        "totalSevensFreespinCount": 10,
+        "sevensIds": [
+            "7red",
+            "7green",
+            "7blue"
+        ]
+    }
+}

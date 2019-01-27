@@ -1,0 +1,10 @@
+import unittest
+
+#import falconserver.auth.profile_test
+import falconserver.tests.machine_classic_creation_test
+import falconserver.tests.machine_classic_math_test
+import falconserver.tests.machine_candy_math_test
+import falconserver.tests.machine_candy2_math_test
+import falconserver.tests.machine_groovy_math_test
+import falconserver.tests.quest_system_test
+#import falconserver.map.maptest

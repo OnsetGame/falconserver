@@ -1,0 +1,15 @@
+# Binaries
+main
+nakefile
+nimcache
+machine_classic
+machine_balloon
+machine_classic_test
+integrational_tests
+profile_test
+unittests
+*.so
+*.exe
+
+# Documentation-related
+nimsuggest.log

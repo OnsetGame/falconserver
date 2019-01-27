@@ -1,0 +1,6566 @@
+{
+    "field_height": 3,
+    "item_set": [
+        {
+            "color": "#000000",
+            "id": "wild",
+            "type": 1
+        },
+        {
+            "color": "#000000",
+            "id": "big1",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "big2",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "big3",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "big4",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "low1",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "low2",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "low3",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "low4",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "hidden",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "feature",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "scatter",
+            "type": 2
+        }
+    ],
+    "lines": [
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            0,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            1,
+            2,
+            1,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            2,
+            2
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            0,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        [
+            2,
+            0,
+            1,
+            0,
+            2
+        ]
+    ],
+    "pay_table": [
+        [
+            0,
+            200,
+            150,
+            125,
+            125,
+            100,
+            100,
+            75,
+            75,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            50,
+            40,
+            30,
+            30,
+            25,
+            25,
+            20,
+            20,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            20,
+            15,
+            10,
+            10,
+            5,
+            5,
+            5,
+            5,
+            0,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "reel_count": 5,
+    "reel_size": 113,
+    "reels": [
+        [
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_hidden": [
+        [
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "hidden",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_shuffle": [
+        [
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_multiplier": [
+        [
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "feature",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "big4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "low2",
+                "type": 0
+            }
+        ]
+    ],
+    "wilds_feature_chances": [
+        {
+            "multiplier": 2,
+            "chance": 72.73
+        },
+        {
+            "multiplier": 5,
+            "chance": 18.18
+        },
+        {
+            "multiplier": 10,
+            "chance": 9.09
+        }
+    ],
+    "freespins_count": 10,
+    "hidden_chances": {
+        "1": 6.67,
+        "2": 8.33,
+        "3": 10.0,
+        "4": 11.67,
+        "5": 13.33,
+        "6": 15.0,
+        "7": 16.67,
+        "8": 18.33
+    },
+    "slot": "cardSlot"
+}

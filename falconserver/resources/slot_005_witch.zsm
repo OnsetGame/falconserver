@@ -1,0 +1,1981 @@
+{
+    "slot": "witchSlot",
+    "field_height": 3,
+    "item_set": [
+        {
+            "color": "#000000",
+            "id": "Wild",
+            "type": 1
+        },
+        {
+            "color": "#000000",
+            "id": "Scatter",
+            "type": 2
+        },
+        {
+            "color": "#000000",
+            "id": "Red",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Yellow",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Green",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Blue",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Plant",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Mandragora",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Mushroom",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Feather",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Web",
+            "type": 0
+        }
+    ],
+    "lines": [
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            0,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            1,
+            2,
+            1,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            2,
+            2
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            0,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        [
+            2,
+            0,
+            1,
+            0,
+            2
+        ]
+    ],
+    "pay_table": [
+        [
+            0,
+            0,
+            500,
+            500,
+            500,
+            500,
+            175,
+            150,
+            125,
+            100,
+            10
+        ],
+        [
+            0,
+            0,
+            100,
+            100,
+            100,
+            100,
+            50,
+            45,
+            40,
+            35,
+            6
+        ],
+        [
+            0,
+            0,
+            30,
+            30,
+            30,
+            30,
+            25,
+            20,
+            15,
+            10,
+            2
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "reel_count": 5,
+    "reel_size": 34,
+    "reels": [
+        [
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_freespin": [
+        [
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Feather",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mushroom",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Mandragora",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Web",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Plant",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Scatter",
+                "type": 2
+            }
+        ]
+    ],
+    "freespin_count": 7,
+    "magic_spin_chance": 20,
+    "bonus_start_elements": 8,
+    "bonus_probability_basis": 64,
+    "bonus_elements_chances": [
+        30,
+        15,
+        10,
+        6,
+        3
+    ],
+    "bonus_elements_paytable": [
+        [
+            2,
+            5,
+            10,
+            15,
+            25,
+            40
+        ],
+        [
+            4,
+            10,
+            20,
+            30,
+            50,
+            80
+        ],
+        [
+            6,
+            15,
+            30,
+            45,
+            75,
+            120
+        ],
+        [
+            8,
+            20,
+            40,
+            60,
+            100,
+            160
+        ],
+        [
+            10,
+            25,
+            50,
+            75,
+            125,
+            200
+        ]
+    ]
+}

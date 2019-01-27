@@ -1,0 +1,2335 @@
+{
+ "exchange_multipliers": [
+  {
+   "multiplier": 1,
+   "probability": 0.35
+  },
+  {
+   "multiplier": 2,
+   "probability": 0.43
+  },
+  {
+   "multiplier": 3,
+   "probability": 0.15
+  },
+  {
+   "multiplier": 5,
+   "probability": 0.06
+  },
+  {
+   "multiplier": 10,
+   "probability": 0.01
+  }
+ ],
+ "xp_points": {
+  "1": {
+   "level": 1,
+   "xp_to_gain_next_level": 25
+  },
+  "2": {
+   "level": 2,
+   "xp_to_gain_next_level": 95
+  },
+  "3": {
+   "level": 3,
+   "xp_to_gain_next_level": 200
+  },
+  "4": {
+   "level": 4,
+   "xp_to_gain_next_level": 575
+  },
+  "5": {
+   "level": 5,
+   "xp_to_gain_next_level": 400
+  },
+  "6": {
+   "level": 6,
+   "xp_to_gain_next_level": 1100
+  },
+  "7": {
+   "level": 7,
+   "xp_to_gain_next_level": 1225
+  },
+  "8": {
+   "level": 8,
+   "xp_to_gain_next_level": 1500
+  },
+  "9": {
+   "level": 9,
+   "xp_to_gain_next_level": 5850
+  },
+  "10": {
+   "level": 10,
+   "xp_to_gain_next_level": 10650
+  },
+  "11": {
+   "level": 11,
+   "xp_to_gain_next_level": 13300
+  },
+  "12": {
+   "level": 12,
+   "xp_to_gain_next_level": 13700
+  },
+  "13": {
+   "level": 13,
+   "xp_to_gain_next_level": 13900
+  },
+  "14": {
+   "level": 14,
+   "xp_to_gain_next_level": 18000
+  },
+  "15": {
+   "level": 15,
+   "xp_to_gain_next_level": 54725
+  },
+  "16": {
+   "level": 16,
+   "xp_to_gain_next_level": 46150
+  },
+  "17": {
+   "level": 17,
+   "xp_to_gain_next_level": 56250
+  },
+  "18": {
+   "level": 18,
+   "xp_to_gain_next_level": 66075
+  },
+  "19": {
+   "level": 19,
+   "xp_to_gain_next_level": 57725
+  },
+  "20": {
+   "level": 20,
+   "xp_to_gain_next_level": 120350
+  },
+  "21": {
+   "level": 21,
+   "xp_to_gain_next_level": 114450
+  },
+  "22": {
+   "level": 22,
+   "xp_to_gain_next_level": 153100
+  },
+  "23": {
+   "level": 23,
+   "xp_to_gain_next_level": 153925
+  },
+  "24": {
+   "level": 24,
+   "xp_to_gain_next_level": 160875
+  },
+  "25": {
+   "level": 25,
+   "xp_to_gain_next_level": 388450
+  },
+  "26": {
+   "level": 26,
+   "xp_to_gain_next_level": 299350
+  },
+  "27": {
+   "level": 27,
+   "xp_to_gain_next_level": 402875
+  },
+  "28": {
+   "level": 28,
+   "xp_to_gain_next_level": 365125
+  },
+  "29": {
+   "level": 29,
+   "xp_to_gain_next_level": 417425
+  },
+  "30": {
+   "level": 30,
+   "xp_to_gain_next_level": 551200
+  },
+  "31": {
+   "level": 31,
+   "xp_to_gain_next_level": 503600
+  },
+  "32": {
+   "level": 32,
+   "xp_to_gain_next_level": 585000
+  },
+  "33": {
+   "level": 33,
+   "xp_to_gain_next_level": 569675
+  },
+  "34": {
+   "level": 34,
+   "xp_to_gain_next_level": 586675
+  },
+  "35": {
+   "level": 35,
+   "xp_to_gain_next_level": 778825
+  },
+  "36": {
+   "level": 36,
+   "xp_to_gain_next_level": 779750
+  },
+  "37": {
+   "level": 37,
+   "xp_to_gain_next_level": 780375
+  },
+  "38": {
+   "level": 38,
+   "xp_to_gain_next_level": 955500
+  },
+  "39": {
+   "level": 39,
+   "xp_to_gain_next_level": 782040
+  },
+  "40": {
+   "level": 40,
+   "xp_to_gain_next_level": 1022500
+  },
+  "41": {
+   "level": 41,
+   "xp_to_gain_next_level": 1181630
+  },
+  "42": {
+   "level": 42,
+   "xp_to_gain_next_level": 1048000
+  },
+  "43": {
+   "level": 43,
+   "xp_to_gain_next_level": 1095750
+  },
+  "44": {
+   "level": 44,
+   "xp_to_gain_next_level": 1231500
+  },
+  "45": {
+   "level": 45,
+   "xp_to_gain_next_level": 1248250
+  },
+  "46": {
+   "level": 46,
+   "xp_to_gain_next_level": 1404000
+  },
+  "47": {
+   "level": 47,
+   "xp_to_gain_next_level": 1508750
+  },
+  "48": {
+   "level": 48,
+   "xp_to_gain_next_level": 1510500
+  },
+  "49": {
+   "level": 49,
+   "xp_to_gain_next_level": 1487000
+  },
+  "50": {
+   "level": 50,
+   "xp_to_gain_next_level": 1725750
+  },
+  "51": {
+   "level": 51,
+   "xp_to_gain_next_level": 1640000
+  },
+  "52": {
+   "level": 52,
+   "xp_to_gain_next_level": 1787750
+  },
+  "53": {
+   "level": 53,
+   "xp_to_gain_next_level": 2020750
+  },
+  "54": {
+   "level": 54,
+   "xp_to_gain_next_level": 1820000
+  },
+  "55": {
+   "level": 55,
+   "xp_to_gain_next_level": 2275000
+  },
+  "56": {
+   "level": 56,
+   "xp_to_gain_next_level": 2470000
+  },
+  "57": {
+   "level": 57,
+   "xp_to_gain_next_level": 2474250
+  },
+  "58": {
+   "level": 58,
+   "xp_to_gain_next_level": 2288000
+  },
+  "59": {
+   "level": 59,
+   "xp_to_gain_next_level": 2450250
+  },
+  "60": {
+   "level": 60,
+   "xp_to_gain_next_level": 3146000
+  },
+  "61": {
+   "level": 61,
+   "xp_to_gain_next_level": 3034500
+  },
+  "62": {
+   "level": 62,
+   "xp_to_gain_next_level": 2962000
+  },
+  "63": {
+   "level": 63,
+   "xp_to_gain_next_level": 3158000
+  },
+  "64": {
+   "level": 64,
+   "xp_to_gain_next_level": 3469000
+  },
+  "65": {
+   "level": 65,
+   "xp_to_gain_next_level": 3917000
+  },
+  "66": {
+   "level": 66,
+   "xp_to_gain_next_level": 4305500
+  },
+  "67": {
+   "level": 67,
+   "xp_to_gain_next_level": 3924750
+  },
+  "68": {
+   "level": 68,
+   "xp_to_gain_next_level": 4554500
+  },
+  "69": {
+   "level": 69,
+   "xp_to_gain_next_level": 4318000
+  },
+  "70": {
+   "level": 70,
+   "xp_to_gain_next_level": 4635000
+  },
+  "71": {
+   "level": 71,
+   "xp_to_gain_next_level": 4638000
+  },
+  "72": {
+   "level": 72,
+   "xp_to_gain_next_level": 6033250
+  },
+  "73": {
+   "level": 73,
+   "xp_to_gain_next_level": 4892000
+  },
+  "74": {
+   "level": 74,
+   "xp_to_gain_next_level": 6427750
+  },
+  "75": {
+   "level": 75,
+   "xp_to_gain_next_level": 7422500
+  },
+  "76": {
+   "level": 76,
+   "xp_to_gain_next_level": 7276500
+  },
+  "77": {
+   "level": 77,
+   "xp_to_gain_next_level": 10238750
+  },
+  "78": {
+   "level": 78,
+   "xp_to_gain_next_level": 7730000
+  },
+  "79": {
+   "level": 79,
+   "xp_to_gain_next_level": 10150500
+  },
+  "80": {
+   "level": 80,
+   "xp_to_gain_next_level": 10460500
+  }
+ },
+ "levelup_bonuses": {
+  "1": {
+   "level": 1,
+   "cc": 100000,
+   "cb": 100,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "2": {
+   "level": 2,
+   "cc": 10000,
+   "cb": 10,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "3": {
+   "level": 3,
+   "cc": 10000,
+   "cb": 10,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "4": {
+   "level": 4,
+   "cc": 10000,
+   "cb": 10,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "5": {
+   "level": 5,
+   "cc": 10000,
+   "cb": 20,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "6": {
+   "level": 6,
+   "cc": 10000,
+   "cb": 20,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "7": {
+   "level": 7,
+   "cc": 10000,
+   "cb": 20,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 20,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "8": {
+   "level": 8,
+   "cc": 40000,
+   "cb": 20,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 20,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "9": {
+   "level": 9,
+   "cc": 40000,
+   "cb": 20,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 20,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "10": {
+   "level": 10,
+   "cc": 40000,
+   "cb": 30,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 25,
+    "cardSlot": 0
+   }
+  },
+  "11": {
+   "level": 11,
+   "cc": 50000,
+   "cb": 30,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 20,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "12": {
+   "level": 12,
+   "cc": 50000,
+   "cb": 30,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 20,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "13": {
+   "level": 13,
+   "cc": 50000,
+   "cb": 30,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 20,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "14": {
+   "level": 14,
+   "cc": 50000,
+   "cb": 30,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 20,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "15": {
+   "level": 15,
+   "cc": 125000,
+   "cb": 40,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 25,
+    "cardSlot": 0
+   }
+  },
+  "16": {
+   "level": 16,
+   "cc": 125000,
+   "cb": 40,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 20,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "17": {
+   "level": 17,
+   "cc": 125000,
+   "cb": 40,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 20,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "18": {
+   "level": 18,
+   "cc": 125000,
+   "cb": 40,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 20,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "19": {
+   "level": 19,
+   "cc": 125000,
+   "cb": 40,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 20,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "20": {
+   "level": 20,
+   "cc": 125000,
+   "cb": 50,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 25,
+    "cardSlot": 0
+   }
+  },
+  "21": {
+   "level": 21,
+   "cc": 125000,
+   "cb": 50,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "22": {
+   "level": 22,
+   "cc": 125000,
+   "cb": 50,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "23": {
+   "level": 23,
+   "cc": 125000,
+   "cb": 50,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "24": {
+   "level": 24,
+   "cc": 125000,
+   "cb": 50,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "25": {
+   "level": 25,
+   "cc": 125000,
+   "cb": 60,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "26": {
+   "level": 26,
+   "cc": 125000,
+   "cb": 60,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "27": {
+   "level": 27,
+   "cc": 125000,
+   "cb": 60,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "28": {
+   "level": 28,
+   "cc": 125000,
+   "cb": 60,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "29": {
+   "level": 29,
+   "cc": 125000,
+   "cb": 60,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "30": {
+   "level": 30,
+   "cc": 125000,
+   "cb": 70,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "31": {
+   "level": 31,
+   "cc": 125000,
+   "cb": 70,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "32": {
+   "level": 32,
+   "cc": 125000,
+   "cb": 70,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "33": {
+   "level": 33,
+   "cc": 125000,
+   "cb": 70,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "34": {
+   "level": 34,
+   "cc": 125000,
+   "cb": 70,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "35": {
+   "level": 35,
+   "cc": 125000,
+   "cb": 80,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "36": {
+   "level": 36,
+   "cc": 125000,
+   "cb": 80,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "37": {
+   "level": 37,
+   "cc": 125000,
+   "cb": 80,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "38": {
+   "level": 38,
+   "cc": 125000,
+   "cb": 80,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "39": {
+   "level": 39,
+   "cc": 125000,
+   "cb": 80,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "40": {
+   "level": 40,
+   "cc": 250000,
+   "cb": 90,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "41": {
+   "level": 41,
+   "cc": 250000,
+   "cb": 90,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "42": {
+   "level": 42,
+   "cc": 250000,
+   "cb": 90,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "43": {
+   "level": 43,
+   "cc": 250000,
+   "cb": 90,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "44": {
+   "level": 44,
+   "cc": 250000,
+   "cb": 90,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "45": {
+   "level": 45,
+   "cc": 250000,
+   "cb": 100,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "46": {
+   "level": 46,
+   "cc": 250000,
+   "cb": 100,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "47": {
+   "level": 47,
+   "cc": 250000,
+   "cb": 100,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "48": {
+   "level": 48,
+   "cc": 250000,
+   "cb": 100,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "49": {
+   "level": 49,
+   "cc": 250000,
+   "cb": 100,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "50": {
+   "level": 50,
+   "cc": 250000,
+   "cb": 110,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "51": {
+   "level": 51,
+   "cc": 250000,
+   "cb": 110,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "52": {
+   "level": 52,
+   "cc": 250000,
+   "cb": 110,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "53": {
+   "level": 53,
+   "cc": 250000,
+   "cb": 110,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "54": {
+   "level": 54,
+   "cc": 250000,
+   "cb": 110,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "55": {
+   "level": 55,
+   "cc": 500000,
+   "cb": 120,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "56": {
+   "level": 56,
+   "cc": 500000,
+   "cb": 120,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "57": {
+   "level": 57,
+   "cc": 500000,
+   "cb": 120,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "58": {
+   "level": 58,
+   "cc": 500000,
+   "cb": 120,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "59": {
+   "level": 59,
+   "cc": 500000,
+   "cb": 120,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "60": {
+   "level": 60,
+   "cc": 500000,
+   "cb": 130,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "61": {
+   "level": 61,
+   "cc": 500000,
+   "cb": 130,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "62": {
+   "level": 62,
+   "cc": 500000,
+   "cb": 130,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "63": {
+   "level": 63,
+   "cc": 500000,
+   "cb": 130,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "64": {
+   "level": 64,
+   "cc": 500000,
+   "cb": 130,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "65": {
+   "level": 65,
+   "cc": 500000,
+   "cb": 140,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "66": {
+   "level": 66,
+   "cc": 500000,
+   "cb": 140,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "67": {
+   "level": 67,
+   "cc": 500000,
+   "cb": 140,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "68": {
+   "level": 68,
+   "cc": 500000,
+   "cb": 140,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "69": {
+   "level": 69,
+   "cc": 500000,
+   "cb": 140,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "70": {
+   "level": 70,
+   "cc": 500000,
+   "cb": 150,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "71": {
+   "level": 71,
+   "cc": 500000,
+   "cb": 150,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "72": {
+   "level": 72,
+   "cc": 500000,
+   "cb": 150,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "73": {
+   "level": 73,
+   "cc": 500000,
+   "cb": 150,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "74": {
+   "level": 74,
+   "cc": 500000,
+   "cb": 150,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "75": {
+   "level": 75,
+   "cc": 500000,
+   "cb": 160,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "76": {
+   "level": 76,
+   "cc": 500000,
+   "cb": 160,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "77": {
+   "level": 77,
+   "cc": 500000,
+   "cb": 160,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "78": {
+   "level": 78,
+   "cc": 500000,
+   "cb": 160,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "79": {
+   "level": 79,
+   "cc": 500000,
+   "cb": 160,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  },
+  "80": {
+   "level": 80,
+   "cc": 500000,
+   "cb": 170,
+   "be": 0,
+   "bi": 0,
+   "bt": 0,
+   "freerounds": {
+    "dreamTowerSlot": 0,
+    "candySlot": 0,
+    "balloonSlot": 0,
+    "witchSlot": 0,
+    "mermaidSlot": 0,
+    "groovySlot": 0,
+    "candySlot2": 0,
+    "ufoSlot": 0,
+    "cardSlot": 0
+   }
+  }
+ },
+ "max_bet": [
+  {
+   "level": 1,
+   "bet_opened": 5000
+  },
+  {
+   "level": 3,
+   "bet_opened": 10000
+  },
+  {
+   "level": 4,
+   "bet_opened": 25000
+  },
+  {
+   "level": 5,
+   "bet_opened": 50000
+  },
+  {
+   "level": 8,
+   "bet_opened": 100000
+  },
+  {
+   "level": 10,
+   "bet_opened": 200000
+  },
+  {
+   "level": 15,
+   "bet_opened": 500000
+  },
+  {
+   "level": 20,
+   "bet_opened": 1000000
+  },
+  {
+   "level": 25,
+   "bet_opened": 2000000
+  },
+  {
+   "level": 30,
+   "bet_opened": 2500000
+  },
+  {
+   "level": 35,
+   "bet_opened": 3000000
+  },
+  {
+   "level": 40,
+   "bet_opened": 3500000
+  },
+  {
+   "level": 45,
+   "bet_opened": 4000000
+  },
+  {
+   "level": 50,
+   "bet_opened": 4500000
+  },
+  {
+   "level": 55,
+   "bet_opened": 5000000
+  },
+  {
+   "level": 60,
+   "bet_opened": 6000000
+  },
+  {
+   "level": 65,
+   "bet_opened": 7500000
+  },
+  {
+   "level": 70,
+   "bet_opened": 10000000
+  },
+  {
+   "level": 75,
+   "bet_opened": 15000000
+  },
+  {
+   "level": 80,
+   "bet_opened": 20000000
+  },
+  {
+   "level": 85,
+   "bet_opened": 25000000
+  },
+  {
+   "level": 90,
+   "bet_opened": 30000000
+  },
+  {
+   "level": 95,
+   "bet_opened": 40000000
+  }
+ ],
+ "taskBets": {
+  "trivial": false,
+  "easy": false,
+  "intermediate": false,
+  "medium": false,
+  "hard": false,
+  "free rounds": false
+ },
+ "exchange_course": [
+  {
+   "bucks": 50,
+   "chips": 100000
+  },
+  {
+   "bucks": 100,
+   "chips": 100000
+  }
+ ],
+ "xp_for_spins": [
+  {
+   "chips": 1000,
+   "xp": 1
+  }
+ ],
+ "unlockSlotQuests": {
+  "dreamTowerSlot": "dreamTower_restore",
+  "balloonSlot": "windySlot_build",
+  "candySlot": "candySlot_build",
+  "witchSlot": "witchSlot_build_house",
+  "mermaidSlot": "mermaid_build_slot",
+  "ufoSlot": "ufoSlot_extract",
+  "groovySlot": "groovySlot_restore",
+  "candySlot2": "candy_2_restore",
+  "cardSlot": "cardsSlot_restore"
+ },
+ "fortuneWheel": {
+  "items": [
+   {
+    "number": 50,
+    "item": "bucks",
+    "firstTimeProb": 0,
+    "defaultProb": 0.075
+   },
+   {
+    "number": 100000,
+    "item": "chips",
+    "firstTimeProb": 1,
+    "defaultProb": 0.2
+   },
+   {
+    "number": 1000,
+    "item": "beams",
+    "firstTimeProb": 0,
+    "defaultProb": 0.025
+   },
+   {
+    "number": 75,
+    "item": "bucks",
+    "firstTimeProb": 0,
+    "defaultProb": 0.075
+   },
+   {
+    "number": 250000,
+    "item": "chips",
+    "firstTimeProb": 0,
+    "defaultProb": 0.2
+   },
+   {
+    "number": 500,
+    "item": "beams",
+    "firstTimeProb": 0,
+    "defaultProb": 0.05
+   },
+   {
+    "number": 100,
+    "item": "bucks",
+    "firstTimeProb": 0,
+    "defaultProb": 0.025
+   },
+   {
+    "number": 50000,
+    "item": "chips",
+    "firstTimeProb": 0,
+    "defaultProb": 0.15
+   },
+   {
+    "number": 250,
+    "item": "beams",
+    "firstTimeProb": 0,
+    "defaultProb": 0.15
+   },
+   {
+    "number": 1000000,
+    "item": "chips",
+    "firstTimeProb": 0,
+    "defaultProb": 0.05
+   }
+  ],
+  "spinCost": 50,
+  "freeSpinTimeout": 86400
+ },
+ "gifts": {
+  "bucksForInvite": 100,
+  "chipsPerDailyGift": 10000
+ },
+ "timeouts": {
+  "Exchange": 86400,
+  "incomeChipsHoursLimit": 1,
+  "incomeBucksHoursLimit": 1,
+  "offerRenewableHoursTime": 72
+ },
+ "zones": {
+  "restaurant": "IncomeChips",
+  "restaurant_2": "IncomeChips",
+  "gasStation": "IncomeBucks",
+  "gasStation_2": "IncomeBucks",
+  "dreamTowerSlot": "Slot",
+  "candySlot": "Slot",
+  "bank": "Exchange",
+  "stadium": "Tournaments",
+  "balloonSlot": "Slot",
+  "witchSlot": "Slot",
+  "mermaidSlot": "Slot",
+  "ufoSlot": "Slot",
+  "wheeloffortune": "Wheel",
+  "zeppelin": "Gift",
+  "facebook": "Friends",
+  "barberShop": "Profile",
+  "cityHall": "Boosters",
+  "groovySlot": "Slot",
+  "candySlot2": "Slot",
+  "cardSlot": "Slot"
+ },
+ "boosters": {
+  "exp": 1.5,
+  "inc": 2,
+  "tp": 2
+ },
+ "QuestSpeedupPrice": 1,
+ "vip_system": {
+  "pointsperusd": 2,
+  "levels": {
+   "0": {
+    "level": 0,
+    "gemsrequired": 0,
+    "chips": 5,
+    "bucks": 5,
+    "wheel": 0,
+    "exchange": 0,
+    "gifts": 0,
+    "expbooster": 0,
+    "incomebooster": 0,
+    "tpbooster": 0,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "1": {
+    "level": 1,
+    "gemsrequired": 5,
+    "chips": 10,
+    "bucks": 0,
+    "wheel": 1,
+    "exchange": 10,
+    "gifts": 2,
+    "expbooster": 1,
+    "incomebooster": 0,
+    "tpbooster": 1,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "2": {
+    "level": 2,
+    "gemsrequired": 10,
+    "chips": 15,
+    "bucks": 10,
+    "wheel": 2,
+    "exchange": 0,
+    "gifts": 0,
+    "expbooster": 1,
+    "incomebooster": 1,
+    "tpbooster": 1,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "3": {
+    "level": 3,
+    "gemsrequired": 25,
+    "chips": 20,
+    "bucks": 0,
+    "wheel": 3,
+    "exchange": 15,
+    "gifts": 3,
+    "expbooster": 2,
+    "incomebooster": 2,
+    "tpbooster": 2,
+    "vipaccess": "ufoSlot",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "4": {
+    "level": 4,
+    "gemsrequired": 50,
+    "chips": 30,
+    "bucks": 15,
+    "wheel": 4,
+    "exchange": 0,
+    "gifts": 0,
+    "expbooster": 4,
+    "incomebooster": 4,
+    "tpbooster": 4,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 25
+    }
+   },
+   "5": {
+    "level": 5,
+    "gemsrequired": 100,
+    "chips": 40,
+    "bucks": 0,
+    "wheel": 5,
+    "exchange": 20,
+    "gifts": 5,
+    "expbooster": 8,
+    "incomebooster": 8,
+    "tpbooster": 8,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 50
+    }
+   },
+   "6": {
+    "level": 6,
+    "gemsrequired": 250,
+    "chips": 50,
+    "bucks": 25,
+    "wheel": 7,
+    "exchange": 0,
+    "gifts": 0,
+    "expbooster": 24,
+    "incomebooster": 24,
+    "tpbooster": 24,
+    "vipaccess": "cardSlot",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "7": {
+    "level": 7,
+    "gemsrequired": 500,
+    "chips": 75,
+    "bucks": 0,
+    "wheel": 10,
+    "exchange": 30,
+    "gifts": 0,
+    "expbooster": 48,
+    "incomebooster": 48,
+    "tpbooster": 48,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "8": {
+    "level": 8,
+    "gemsrequired": 1000,
+    "chips": 100,
+    "bucks": 50,
+    "wheel": 15,
+    "exchange": 0,
+    "gifts": 0,
+    "expbooster": 72,
+    "incomebooster": 72,
+    "tpbooster": 72,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "9": {
+    "level": 9,
+    "gemsrequired": 2500,
+    "chips": 150,
+    "bucks": 0,
+    "wheel": 20,
+    "exchange": 40,
+    "gifts": 0,
+    "expbooster": 96,
+    "incomebooster": 96,
+    "tpbooster": 96,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   },
+   "10": {
+    "level": 10,
+    "gemsrequired": 5000,
+    "chips": 200,
+    "bucks": 100,
+    "wheel": 25,
+    "exchange": 0,
+    "gifts": 10,
+    "expbooster": 168,
+    "incomebooster": 168,
+    "tpbooster": 168,
+    "vipaccess": "",
+    "chipsrev": 0,
+    "bucksrev": 0,
+    "energyrev": 0,
+    "freerounds": {
+     "cardSlot": 0
+    }
+   }
+  }
+ },
+ "tournamentRewards": {
+  "free_winner": 50,
+  "paid_winner": 100,
+  "free_prize": null,
+  "paid_prize": null,
+  "free_participant": null,
+  "paid_participant": null
+ },
+ "slotSortOrder": {
+  "dreamTowerSlot": 1,
+  "candySlot": 2,
+  "balloonSlot": 3,
+  "witchSlot": 4,
+  "mermaidSlot": 5,
+  "groovySlot": 6,
+  "candySlot2": 7,
+  "goldMineSlot": 8,
+  "ufoSlot": 9,
+  "cardSlot": 10
+ }
+}

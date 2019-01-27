@@ -1,0 +1,1127 @@
+{
+    "slot": "balloonSlot",
+    "field_height": 3,
+    "item_set": [
+        {
+            "color": "#000000",
+            "id": "Wild",
+            "type": 1
+        },
+        {
+            "color": "#000000",
+            "id": "Bonus",
+            "type": 3
+        },
+        {
+            "color": "#000000",
+            "id": "Snake",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Glider",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Kite",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Flag",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Red",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Yellow",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Green",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "Blue",
+            "type": 0
+        }
+    ],
+    "lines": [
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            0,
+            1,
+            2
+        ],
+        [
+            0,
+            0,
+            1,
+            2,
+            2
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        [
+            0,
+            2,
+            2,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            0,
+            0,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            1,
+            2,
+            1,
+            0,
+            1
+        ],
+        [
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            0,
+            2,
+            0
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        [
+            2,
+            0,
+            1,
+            0,
+            2
+        ],
+        [
+            0,
+            2,
+            1,
+            2,
+            0
+        ],
+        [
+            1,
+            0,
+            2,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            0,
+            2,
+            1
+        ]
+    ],
+    "pay_table": [
+        [
+            300,
+            0,
+            300,
+            200,
+            200,
+            150,
+            150,
+            75,
+            50,
+            50
+        ],
+        [
+            50,
+            0,
+            50,
+            40,
+            40,
+            30,
+            30,
+            25,
+            15,
+            15
+        ],
+        [
+            30,
+            0,
+            30,
+            25,
+            25,
+            15,
+            15,
+            5,
+            2,
+            2
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "reel_count": 5,
+    "reel_size": 33,
+    "reels": [
+        [
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Snake",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Red",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Flag",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "Green",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Blue",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Kite",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Yellow",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "Glider",
+                "type": 0
+            }
+        ]
+    ],
+    "freespin_config": {
+        "freespin_count": [
+            {
+                "destruction": 5,
+                "freespin_count": 5
+            },
+            {
+                "destruction": 6,
+                "freespin_count": 10
+            },
+            {
+                "destruction": 7,
+                "freespin_count": 15
+            },
+            {
+                "destruction": 8,
+                "freespin_count": 25
+            },
+            {
+                "destruction": 9,
+                "freespin_count": 50
+            }
+        ]
+    },
+    "bonus_config": {
+        "bonus_trigger": {
+            "color": "#000000",
+            "id": "Bonus",
+            "type": 3
+        },
+        "bonus_count": {
+            "trigger_count": 3
+        },
+        "bonus_multiplier_probability": 7,
+        "bonus_rockets_count": [
+            3,
+            4,
+            5
+        ]
+    }
+}

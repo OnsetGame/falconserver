@@ -1,0 +1,2489 @@
+{
+    "slot": "candySlot",
+    "field_height": 3,
+    "item_set": [
+        {
+            "color": "#000000",
+            "id": "wild",
+            "type": 1
+        },
+        {
+            "color": "#000000",
+            "id": "scatter",
+            "type": 2
+        },
+        {
+            "color": "#000000",
+            "id": "bonus",
+            "type": 3
+        },
+        {
+            "color": "#000000",
+            "id": "cake1",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "cake2",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "cake3",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "cake4",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "candy1",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "candy2",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "candy3",
+            "type": 0
+        },
+        {
+            "color": "#000000",
+            "id": "candy4",
+            "type": 0
+        }
+    ],
+    "lines": [
+        [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        [
+            0,
+            1,
+            2,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            0,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            1,
+            2,
+            1
+        ],
+        [
+            1,
+            2,
+            1,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            2,
+            2
+        ],
+        [
+            2,
+            2,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        [
+            1,
+            0,
+            0,
+            0,
+            1
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        [
+            0,
+            1,
+            1,
+            1,
+            0
+        ],
+        [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            1,
+            1,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        [
+            0,
+            2,
+            0,
+            2,
+            0
+        ],
+        [
+            2,
+            0,
+            2,
+            0,
+            2
+        ],
+        [
+            2,
+            0,
+            1,
+            0,
+            2
+        ]
+    ],
+    "pay_table": [
+        [
+            150,
+            0,
+            0,
+            100,
+            100,
+            75,
+            75,
+            50,
+            50,
+            35,
+            35
+        ],
+        [
+            50,
+            0,
+            0,
+            50,
+            50,
+            40,
+            40,
+            25,
+            25,
+            15,
+            15
+        ],
+        [
+            30,
+            0,
+            0,
+            30,
+            30,
+            20,
+            20,
+            10,
+            10,
+            5,
+            5
+        ],
+        [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "reel_count": 5,
+    "reel_size": 11,
+    "reels": [
+        [
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "scatter",
+                "type": 2
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            }
+        ]
+    ],
+    "reels_freespin": [
+        [
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            }
+        ],
+        [
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "bonus",
+                "type": 3
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "cake4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy4",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy2",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "candy1",
+                "type": 0
+            },
+            {
+                "color": "#000000",
+                "id": "wild",
+                "type": 1
+            },
+            {
+                "color": "#000000",
+                "id": "candy3",
+                "type": 0
+            }
+        ]
+    ],
+    "freespin_count": 5,
+    "bonus_multipliers": [
+        5,
+        10,
+        15
+    ]
+}
